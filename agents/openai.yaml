@@ -1,0 +1,4 @@
+interface:
+  display_name: "公共 API 发现与接入"
+  short_description: "从 public-apis 全目录筛选适用服务，先给建议，用户选定后再接入或部署"
+  default_prompt: "使用 $public-apis-advisor，根据当前项目从 public-apis 全目录发现可用 API，比较用途、费用和限制，先给我建议，等我选定后再接入或部署。"
